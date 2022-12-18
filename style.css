@@ -1,0 +1,35 @@
+.container{
+  color: white;
+  background-color: #f0625f;
+  text-align: justify;
+}
+h1{
+  color: #f0625f;
+  text-align: center;
+}
+h3{
+  color: blue;
+}
+p{
+  text-align: justify;
+}
+.conteudo{
+  content: hidden;
+}
+.col-33{
+  width: 33%;
+}
+.col-50{
+  width: 50%;
+}
+.linha{
+  display: flex;
+  flex-flow: row wrap;
+}
+.foto{
+  width: 354px;
+  height: 472px;
+}
+.table{
+  text-align: center;
+}
