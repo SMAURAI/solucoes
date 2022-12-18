@@ -6,11 +6,11 @@ function main(){
 
         // Validação do resultado contido nos campos
 				if(user == ""){
-					alert("Preencha o formulário! user")
+					alert("Preencha o formulário!")
 				}
 				else{
 					if(pass == ""){
-						alert("Preencha o formulário! pass")
+						alert("Preencha o formulário!")
 					}
 					else{
 						alert("Conectando!")
